@@ -1,0 +1,16 @@
+C:\Users\site6-n\source\repos\xor_function\xor_function\bin\Debug\net5.0\xor_function.exe
+C:\Users\site6-n\source\repos\xor_function\xor_function\bin\Debug\net5.0\xor_function.deps.json
+C:\Users\site6-n\source\repos\xor_function\xor_function\bin\Debug\net5.0\xor_function.runtimeconfig.json
+C:\Users\site6-n\source\repos\xor_function\xor_function\bin\Debug\net5.0\xor_function.runtimeconfig.dev.json
+C:\Users\site6-n\source\repos\xor_function\xor_function\bin\Debug\net5.0\xor_function.dll
+C:\Users\site6-n\source\repos\xor_function\xor_function\bin\Debug\net5.0\ref\xor_function.dll
+C:\Users\site6-n\source\repos\xor_function\xor_function\bin\Debug\net5.0\xor_function.pdb
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.AssemblyInfoInputs.cache
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.AssemblyInfo.cs
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.csproj.CoreCompileInputs.cache
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.dll
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\ref\xor_function.dll
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.pdb
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.genruntimeconfig.cache
+C:\Users\site6-n\source\repos\xor_function\xor_function\obj\Debug\net5.0\xor_function.csproj.AssemblyReference.cache
