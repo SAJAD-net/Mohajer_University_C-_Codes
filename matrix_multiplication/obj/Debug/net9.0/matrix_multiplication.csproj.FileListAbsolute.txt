@@ -1,0 +1,15 @@
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/bin/Debug/net9.0/matrix_multiplication
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/bin/Debug/net9.0/matrix_multiplication.deps.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/bin/Debug/net9.0/matrix_multiplication.runtimeconfig.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/bin/Debug/net9.0/matrix_multiplication.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/bin/Debug/net9.0/matrix_multiplication.pdb
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.AssemblyInfoInputs.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.AssemblyInfo.cs
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.csproj.CoreCompileInputs.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.sourcelink.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/refint/matrix_multiplication.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.pdb
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/matrix_multiplication.genruntimeconfig.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/matrix_multiplication/obj/Debug/net9.0/ref/matrix_multiplication.dll
