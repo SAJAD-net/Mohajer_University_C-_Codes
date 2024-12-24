@@ -17,5 +17,5 @@
 #### چاپ یکان, دهگان و صدگان یک عدد سه رقمی.
 ## matrix_sum
 #### جمع دو تا ماتریس و چاپ نتیجه.
-## matrox_multiplication
+## matrix_multiplication
 #### ضرب دو ماتریس و چاپ نتیجه.
