@@ -6,3 +6,11 @@
 #### پیدا کردن k امین عدد کوچک در یک آرایه نامنظم.
 ## xor_function
 #### تابع xor و صدا زدن آن با ارجاع.
+## Fibonacci_sequence_input
+#### سری فیبوناچی
+## Fibonacci_sequence_input_2nd_solution
+#### سری فیبوناچی به روشی دیگر.
+## is_even_input
+#### برسی زوج بودن یک عدد.
+## digit_units_input
+#### چاپ یکان, دهگان و صدگان یک عدد سه رقمی.
