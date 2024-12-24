@@ -1,7 +1,6 @@
 # Mohajer_University_CSharp_Codes
 ### برنامه های ساده ای با زبان سی شار‍پ که برای آموزش برنامه نویسی در دانشگاه مهاجر اصفهان نوشتم. (ترم یک)
-
-
+<br> </br>
 ## GCD (Greatest common divisor)
  #### از **GCD (Greatest Common Divisor) یا بزرگترین مقسوم علیه مشترک** برای پیدا کردن بزرگترین مقسوم علیه مشترک دو عدد استفاده می شود.
 ## Kth_Smallest
