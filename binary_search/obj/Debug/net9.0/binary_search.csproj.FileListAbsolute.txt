@@ -1,0 +1,15 @@
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/bin/Debug/net9.0/binary_search
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/bin/Debug/net9.0/binary_search.deps.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/bin/Debug/net9.0/binary_search.runtimeconfig.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/bin/Debug/net9.0/binary_search.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/bin/Debug/net9.0/binary_search.pdb
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.AssemblyInfoInputs.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.AssemblyInfo.cs
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.csproj.CoreCompileInputs.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.sourcelink.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/refint/binary_search.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.pdb
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/binary_search.genruntimeconfig.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/binary_search/obj/Debug/net9.0/ref/binary_search.dll
