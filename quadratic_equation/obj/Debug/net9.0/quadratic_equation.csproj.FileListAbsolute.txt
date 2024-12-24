@@ -1,0 +1,15 @@
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/bin/Debug/net9.0/quadratic_equation
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/bin/Debug/net9.0/quadratic_equation.deps.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/bin/Debug/net9.0/quadratic_equation.runtimeconfig.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/bin/Debug/net9.0/quadratic_equation.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/bin/Debug/net9.0/quadratic_equation.pdb
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.AssemblyInfoInputs.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.AssemblyInfo.cs
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.csproj.CoreCompileInputs.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.sourcelink.json
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/refint/quadratic_equation.dll
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.pdb
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/quadratic_equation.genruntimeconfig.cache
+/home/sajadnet/W/Mohajer_University_CSharp_Codes/quadratic_equation/obj/Debug/net9.0/ref/quadratic_equation.dll
