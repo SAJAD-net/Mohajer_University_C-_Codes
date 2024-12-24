@@ -1,0 +1,14 @@
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/matrix_sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/matrix_sum.AssemblyInfoInputs.cache
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/matrix_sum.AssemblyInfo.cs
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/matrix_sum.csproj.CoreCompileInputs.cache
+/home/sajadnet/W/C#/matrix_sum/bin/Debug/net9.0/matrix_sum
+/home/sajadnet/W/C#/matrix_sum/bin/Debug/net9.0/matrix_sum.deps.json
+/home/sajadnet/W/C#/matrix_sum/bin/Debug/net9.0/matrix_sum.runtimeconfig.json
+/home/sajadnet/W/C#/matrix_sum/bin/Debug/net9.0/matrix_sum.dll
+/home/sajadnet/W/C#/matrix_sum/bin/Debug/net9.0/matrix_sum.pdb
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/matrix_sum.dll
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/refint/matrix_sum.dll
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/matrix_sum.pdb
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/matrix_sum.genruntimeconfig.cache
+/home/sajadnet/W/C#/matrix_sum/obj/Debug/net9.0/ref/matrix_sum.dll
