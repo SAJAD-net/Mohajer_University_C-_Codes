@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "is_even_input", "is_even_input\is_even_input.csproj", "{BF165D2D-FE2A-434E-B59D-4BC3D1FEF61A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF165D2D-FE2A-434E-B59D-4BC3D1FEF61A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF165D2D-FE2A-434E-B59D-4BC3D1FEF61A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF165D2D-FE2A-434E-B59D-4BC3D1FEF61A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF165D2D-FE2A-434E-B59D-4BC3D1FEF61A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20657E8-FB04-4792-A07A-31E2AF6A1B5B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\bin\Debug\net5.0\is_even_input.exe
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\bin\Debug\net5.0\is_even_input.deps.json
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\bin\Debug\net5.0\is_even_input.runtimeconfig.json
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\bin\Debug\net5.0\is_even_input.runtimeconfig.dev.json
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\bin\Debug\net5.0\is_even_input.dll
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\bin\Debug\net5.0\ref\is_even_input.dll
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\bin\Debug\net5.0\is_even_input.pdb
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.csproj.AssemblyReference.cache
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.AssemblyInfoInputs.cache
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.AssemblyInfo.cs
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.csproj.CoreCompileInputs.cache
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.dll
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\ref\is_even_input.dll
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.pdb
+D:\Fardad\Sajjad Chehrazi\is_even_input\is_even_input\obj\Debug\net5.0\is_even_input.genruntimeconfig.cache
