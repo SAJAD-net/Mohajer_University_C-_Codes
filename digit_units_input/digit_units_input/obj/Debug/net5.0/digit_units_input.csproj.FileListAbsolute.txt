@@ -1,0 +1,16 @@
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\bin\Debug\net5.0\digit_units_input.exe
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\bin\Debug\net5.0\digit_units_input.deps.json
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\bin\Debug\net5.0\digit_units_input.runtimeconfig.json
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\bin\Debug\net5.0\digit_units_input.runtimeconfig.dev.json
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\bin\Debug\net5.0\digit_units_input.dll
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\bin\Debug\net5.0\ref\digit_units_input.dll
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\bin\Debug\net5.0\digit_units_input.pdb
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.csproj.AssemblyReference.cache
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.AssemblyInfoInputs.cache
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.AssemblyInfo.cs
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.csproj.CoreCompileInputs.cache
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.dll
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\ref\digit_units_input.dll
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.pdb
+D:\Fardad\Sajjad Chehrazi\digit_units_input\digit_units_input\obj\Debug\net5.0\digit_units_input.genruntimeconfig.cache

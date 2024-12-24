@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "digit_units_input/1.0.0": {
+        "runtime": {
+          "digit_units_input.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "digit_units_input/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
