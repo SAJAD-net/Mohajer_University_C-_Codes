@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Fibonacci_sequence_input_2nd_solution/1.0.0": {
+        "runtime": {
+          "Fibonacci_sequence_input_2nd_solution.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fibonacci_sequence_input_2nd_solution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
